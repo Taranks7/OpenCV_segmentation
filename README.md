@@ -1,6 +1,6 @@
 # OpenCV_segmentation #
 
-## Installments ## |
+**Installments** |
 ------------- | 
 opencv-python  |
 pytorch  |

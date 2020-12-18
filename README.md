@@ -1,5 +1,7 @@
 # OpenCV_segmentation #
 
+## unzip data.zip ##
+
 **Install dependencies** |
 ------------- | 
 opencv-python  |

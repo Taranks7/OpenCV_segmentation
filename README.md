@@ -1,4 +1,4 @@
-##OpenCV_segmentation
+OpenCV_segmentation
 
 Semantic  image  segmentation  of  cardiovascular  MR  (CMR)images.   CMR  imaging  is  the  gold  standard  for  assessing  cardiac  chamber  volume  and  mass  formany cardiovascular diseases.  For decades,  clinicians have been relying on manual segmentationapproaches to derive quantitative measures such as left ventricle volume, mass and ejection fraction.However, manual expert segmentation is tedious, time-consuming and prone to subjective errors.It becomes impractical when dealing with large-scale datasets. This automated developed methodology uses Convolutional Neural Network (CNN), segmenting a CMR image into four regions:  the background, the left ventricle (LV), the rightventricle (RV) and the myocardium (Myo). 
 

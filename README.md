@@ -1,6 +1,6 @@
 # OpenCV_segmentation #
 
-**Installments** |
+**Install dependencies** |
 ------------- | 
 opencv-python  |
 pytorch  |

@@ -1,4 +1,5 @@
 # OpenCV_segmentation #
+![opencv_seg](https://user-images.githubusercontent.com/74196907/102829590-5bb09800-43df-11eb-914f-707e9f18010d.png)
 
 ## unzip data.zip ##
 

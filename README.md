@@ -8,7 +8,7 @@
 
 
 ## Code and resources used ## 
-**Python version:** 3.7
+**Python version:** 3.7  
 **Packages:** opencv-python, pytorch, torchvision, torchgeometry 
 ### unzip data.zip ###
 
